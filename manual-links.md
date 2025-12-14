@@ -1,7 +1,7 @@
-# Audacity manual links (old version)
+# Audacity manual links (fixed version)
 
-This document contains some example links to the Audacity user manual.
+This document contains updated example links to the Audacity user manual.
 
-- Getting started guide: https://manual.audacityteam.org/getting-started.html
-- Effects overview: http://manual.audacityteam.org/effects.html
-- Troubleshooting page: https://manual.audacityteam.com/help/troubleshooting
+- Getting started guide: https://support.audacityteam.org/manual/getting-started
+- Effects overview: https://support.audacityteam.org/manual/effects-overview
+- Troubleshooting page: https://support.audacityteam.org/manual/troubleshooting
